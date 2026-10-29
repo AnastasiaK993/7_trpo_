@@ -1,0 +1,227 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\st310-02\\Desktop\\\u043A\u0438\u0432\u0430\u043B\u043A\u0438\u043D\u0430\\7_trpo_CLient-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C0E37A96-81A4-400C-9655-1D187ECF39CD}|Cars_Client_seven.csproj|C:\\Users\\st310-02\\Desktop\\\u043A\u0438\u0432\u0430\u043B\u043A\u0438\u043D\u0430\\7_trpo_CLient-main\\pages\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0E37A96-81A4-400C-9655-1D187ECF39CD}|Cars_Client_seven.csproj|solutionrelative:pages\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0E37A96-81A4-400C-9655-1D187ECF39CD}|Cars_Client_seven.csproj|C:\\Users\\st310-02\\Desktop\\\u043A\u0438\u0432\u0430\u043B\u043A\u0438\u043D\u0430\\7_trpo_CLient-main\\pages\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C0E37A96-81A4-400C-9655-1D187ECF39CD}|Cars_Client_seven.csproj|solutionrelative:pages\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0E37A96-81A4-400C-9655-1D187ECF39CD}|Cars_Client_seven.csproj|C:\\Users\\st310-02\\Desktop\\\u043A\u0438\u0432\u0430\u043B\u043A\u0438\u043D\u0430\\7_trpo_CLient-main\\pages\\carpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C0E37A96-81A4-400C-9655-1D187ECF39CD}|Cars_Client_seven.csproj|solutionrelative:pages\\carpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0E37A96-81A4-400C-9655-1D187ECF39CD}|Cars_Client_seven.csproj|C:\\Users\\st310-02\\Desktop\\\u043A\u0438\u0432\u0430\u043B\u043A\u0438\u043D\u0430\\7_trpo_CLient-main\\pages\\postpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C0E37A96-81A4-400C-9655-1D187ECF39CD}|Cars_Client_seven.csproj|solutionrelative:pages\\postpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0E37A96-81A4-400C-9655-1D187ECF39CD}|Cars_Client_seven.csproj|c:\\users\\st310-02\\desktop\\\u043A\u0438\u0432\u0430\u043B\u043A\u0438\u043D\u0430\\7_trpo_client-main\\pages\\editpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C0E37A96-81A4-400C-9655-1D187ECF39CD}|Cars_Client_seven.csproj|solutionrelative:pages\\editpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0E37A96-81A4-400C-9655-1D187ECF39CD}|Cars_Client_seven.csproj|c:\\users\\st310-02\\desktop\\\u043A\u0438\u0432\u0430\u043B\u043A\u0438\u043D\u0430\\7_trpo_client-main\\carsapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0E37A96-81A4-400C-9655-1D187ECF39CD}|Cars_Client_seven.csproj|solutionrelative:carsapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0E37A96-81A4-400C-9655-1D187ECF39CD}|Cars_Client_seven.csproj|C:\\Users\\st310-02\\Desktop\\\u043A\u0438\u0432\u0430\u043B\u043A\u0438\u043D\u0430\\7_trpo_CLient-main\\pages\\postpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0E37A96-81A4-400C-9655-1D187ECF39CD}|Cars_Client_seven.csproj|solutionrelative:pages\\postpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0E37A96-81A4-400C-9655-1D187ECF39CD}|Cars_Client_seven.csproj|c:\\users\\st310-02\\desktop\\\u043A\u0438\u0432\u0430\u043B\u043A\u0438\u043D\u0430\\7_trpo_client-main\\pages\\carpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0E37A96-81A4-400C-9655-1D187ECF39CD}|Cars_Client_seven.csproj|solutionrelative:pages\\carpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0E37A96-81A4-400C-9655-1D187ECF39CD}|Cars_Client_seven.csproj|c:\\users\\st310-02\\desktop\\\u043A\u0438\u0432\u0430\u043B\u043A\u0438\u043D\u0430\\7_trpo_client-main\\carright.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0E37A96-81A4-400C-9655-1D187ECF39CD}|Cars_Client_seven.csproj|solutionrelative:carright.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0E37A96-81A4-400C-9655-1D187ECF39CD}|Cars_Client_seven.csproj|c:\\users\\st310-02\\desktop\\\u043A\u0438\u0432\u0430\u043B\u043A\u0438\u043D\u0430\\7_trpo_client-main\\pages\\editpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0E37A96-81A4-400C-9655-1D187ECF39CD}|Cars_Client_seven.csproj|solutionrelative:pages\\editpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0E37A96-81A4-400C-9655-1D187ECF39CD}|Cars_Client_seven.csproj|C:\\Users\\st310-02\\Desktop\\\u043A\u0438\u0432\u0430\u043B\u043A\u0438\u043D\u0430\\7_trpo_CLient-main\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0E37A96-81A4-400C-9655-1D187ECF39CD}|Cars_Client_seven.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0E37A96-81A4-400C-9655-1D187ECF39CD}|Cars_Client_seven.csproj|C:\\Users\\st310-02\\Desktop\\\u043A\u0438\u0432\u0430\u043B\u043A\u0438\u043D\u0430\\7_trpo_CLient-main\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C0E37A96-81A4-400C-9655-1D187ECF39CD}|Cars_Client_seven.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CarsApiService.cs",
+              "DocumentMoniker": "C:\\Users\\st310-02\\Desktop\\\u043A\u0438\u0432\u0430\u043B\u043A\u0438\u043D\u0430\\7_trpo_CLient-main\\CarsApiService.cs",
+              "RelativeDocumentMoniker": "CarsApiService.cs",
+              "ToolTip": "C:\\Users\\st310-02\\Desktop\\\u043A\u0438\u0432\u0430\u043B\u043A\u0438\u043D\u0430\\7_trpo_CLient-main\\CarsApiService.cs",
+              "RelativeToolTip": "CarsApiService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-29T06:07:50.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EditPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\st310-02\\Desktop\\\u043A\u0438\u0432\u0430\u043B\u043A\u0438\u043D\u0430\\7_trpo_CLient-main\\Pages\\EditPage.xaml.cs",
+              "RelativeDocumentMoniker": "Pages\\EditPage.xaml.cs",
+              "ToolTip": "C:\\Users\\st310-02\\Desktop\\\u043A\u0438\u0432\u0430\u043B\u043A\u0438\u043D\u0430\\7_trpo_CLient-main\\Pages\\EditPage.xaml.cs",
+              "RelativeToolTip": "Pages\\EditPage.xaml.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAgwCIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-29T05:55:16.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CarPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\st310-02\\Desktop\\\u043A\u0438\u0432\u0430\u043B\u043A\u0438\u043D\u0430\\7_trpo_CLient-main\\Pages\\CarPage.xaml.cs",
+              "RelativeDocumentMoniker": "Pages\\CarPage.xaml.cs",
+              "ToolTip": "C:\\Users\\st310-02\\Desktop\\\u043A\u0438\u0432\u0430\u043B\u043A\u0438\u043D\u0430\\7_trpo_CLient-main\\Pages\\CarPage.xaml.cs",
+              "RelativeToolTip": "Pages\\CarPage.xaml.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAwwBYAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-29T05:51:12.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EditPage.xaml",
+              "DocumentMoniker": "C:\\Users\\st310-02\\Desktop\\\u043A\u0438\u0432\u0430\u043B\u043A\u0438\u043D\u0430\\7_trpo_CLient-main\\Pages\\EditPage.xaml",
+              "RelativeDocumentMoniker": "Pages\\EditPage.xaml",
+              "ToolTip": "C:\\Users\\st310-02\\Desktop\\\u043A\u0438\u0432\u0430\u043B\u043A\u0438\u043D\u0430\\7_trpo_CLient-main\\Pages\\EditPage.xaml",
+              "RelativeToolTip": "Pages\\EditPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-29T05:42:15.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CarRight.cs",
+              "DocumentMoniker": "C:\\Users\\st310-02\\Desktop\\\u043A\u0438\u0432\u0430\u043B\u043A\u0438\u043D\u0430\\7_trpo_CLient-main\\CarRight.cs",
+              "RelativeDocumentMoniker": "CarRight.cs",
+              "ToolTip": "C:\\Users\\st310-02\\Desktop\\\u043A\u0438\u0432\u0430\u043B\u043A\u0438\u043D\u0430\\7_trpo_CLient-main\\CarRight.cs",
+              "RelativeToolTip": "CarRight.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-29T05:22:58.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PostPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\st310-02\\Desktop\\\u043A\u0438\u0432\u0430\u043B\u043A\u0438\u043D\u0430\\7_trpo_CLient-main\\Pages\\PostPage.xaml.cs",
+              "RelativeDocumentMoniker": "Pages\\PostPage.xaml.cs",
+              "ToolTip": "C:\\Users\\st310-02\\Desktop\\\u043A\u0438\u0432\u0430\u043B\u043A\u0438\u043D\u0430\\7_trpo_CLient-main\\Pages\\PostPage.xaml.cs",
+              "RelativeToolTip": "Pages\\PostPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-29T04:50:46.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PostPage.xaml",
+              "DocumentMoniker": "C:\\Users\\st310-02\\Desktop\\\u043A\u0438\u0432\u0430\u043B\u043A\u0438\u043D\u0430\\7_trpo_CLient-main\\Pages\\PostPage.xaml",
+              "RelativeDocumentMoniker": "Pages\\PostPage.xaml",
+              "ToolTip": "C:\\Users\\st310-02\\Desktop\\\u043A\u0438\u0432\u0430\u043B\u043A\u0438\u043D\u0430\\7_trpo_CLient-main\\Pages\\PostPage.xaml",
+              "RelativeToolTip": "Pages\\PostPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-29T04:50:46.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CarPage.xaml",
+              "DocumentMoniker": "C:\\Users\\st310-02\\Desktop\\\u043A\u0438\u0432\u0430\u043B\u043A\u0438\u043D\u0430\\7_trpo_CLient-main\\Pages\\CarPage.xaml",
+              "RelativeDocumentMoniker": "Pages\\CarPage.xaml",
+              "ToolTip": "C:\\Users\\st310-02\\Desktop\\\u043A\u0438\u0432\u0430\u043B\u043A\u0438\u043D\u0430\\7_trpo_CLient-main\\Pages\\CarPage.xaml",
+              "RelativeToolTip": "Pages\\CarPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-29T04:50:46.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\st310-02\\Desktop\\\u043A\u0438\u0432\u0430\u043B\u043A\u0438\u043D\u0430\\7_trpo_CLient-main\\Pages\\MainPage.xaml",
+              "RelativeDocumentMoniker": "Pages\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\st310-02\\Desktop\\\u043A\u0438\u0432\u0430\u043B\u043A\u0438\u043D\u0430\\7_trpo_CLient-main\\Pages\\MainPage.xaml",
+              "RelativeToolTip": "Pages\\MainPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-29T04:50:46.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\st310-02\\Desktop\\\u043A\u0438\u0432\u0430\u043B\u043A\u0438\u043D\u0430\\7_trpo_CLient-main\\Pages\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "Pages\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\st310-02\\Desktop\\\u043A\u0438\u0432\u0430\u043B\u043A\u0438\u043D\u0430\\7_trpo_CLient-main\\Pages\\MainPage.xaml.cs",
+              "RelativeToolTip": "Pages\\MainPage.xaml.cs",
+              "ViewState": "AQIAAE8AAAAAAAAAAAAkwFkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-29T04:50:46.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\st310-02\\Desktop\\\u043A\u0438\u0432\u0430\u043B\u043A\u0438\u043D\u0430\\7_trpo_CLient-main\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\st310-02\\Desktop\\\u043A\u0438\u0432\u0430\u043B\u043A\u0438\u043D\u0430\\7_trpo_CLient-main\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-29T04:50:46.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\st310-02\\Desktop\\\u043A\u0438\u0432\u0430\u043B\u043A\u0438\u043D\u0430\\7_trpo_CLient-main\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\st310-02\\Desktop\\\u043A\u0438\u0432\u0430\u043B\u043A\u0438\u043D\u0430\\7_trpo_CLient-main\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-29T04:50:46.239Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 170,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

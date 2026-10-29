@@ -1,0 +1,17 @@
+C:\Users\st310-03\Desktop\кивалкина\Cars_Client_seven\obj\Debug\net8.0-windows\Cars_Client_seven.csproj.AssemblyReference.cache
+C:\Users\st310-03\Desktop\кивалкина\Cars_Client_seven\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\st310-03\Desktop\кивалкина\Cars_Client_seven\obj\Debug\net8.0-windows\Pages\MainPage.g.cs
+C:\Users\st310-03\Desktop\кивалкина\Cars_Client_seven\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\st310-03\Desktop\кивалкина\Cars_Client_seven\obj\Debug\net8.0-windows\Cars_Client_seven_Content.g.cs
+C:\Users\st310-03\Desktop\кивалкина\Cars_Client_seven\obj\Debug\net8.0-windows\Cars_Client_seven_MarkupCompile.cache
+C:\Users\st310-03\Desktop\кивалкина\Cars_Client_seven\obj\Debug\net8.0-windows\Cars_Client_seven_MarkupCompile.lref
+C:\Users\st310-02\Desktop\кивалкина\7_trpo_CLient-main\obj\Debug\net8.0-windows\Cars_Client_seven.csproj.AssemblyReference.cache
+C:\Users\st310-02\Desktop\кивалкина\7_trpo_CLient-main\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\st310-02\Desktop\кивалкина\7_trpo_CLient-main\obj\Debug\net8.0-windows\Pages\CarPage.g.cs
+C:\Users\st310-02\Desktop\кивалкина\7_trpo_CLient-main\obj\Debug\net8.0-windows\Pages\EditPage.g.cs
+C:\Users\st310-02\Desktop\кивалкина\7_trpo_CLient-main\obj\Debug\net8.0-windows\Pages\MainPage.g.cs
+C:\Users\st310-02\Desktop\кивалкина\7_trpo_CLient-main\obj\Debug\net8.0-windows\Pages\PostPage.g.cs
+C:\Users\st310-02\Desktop\кивалкина\7_trpo_CLient-main\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\st310-02\Desktop\кивалкина\7_trpo_CLient-main\obj\Debug\net8.0-windows\Cars_Client_seven_Content.g.cs
+C:\Users\st310-02\Desktop\кивалкина\7_trpo_CLient-main\obj\Debug\net8.0-windows\Cars_Client_seven_MarkupCompile.cache
+C:\Users\st310-02\Desktop\кивалкина\7_trpo_CLient-main\obj\Debug\net8.0-windows\Cars_Client_seven_MarkupCompile.lref
